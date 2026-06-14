@@ -1,3 +1,1 @@
-```typescript
-var s=";console.log('var s='+JSON.stringify(s)+s);";console.log('var s='+JSON.stringify(s)+s);
-```
+![pihlgs](https://img.shields.io/badge/programming_is_hard-let's_go_shopping-blue?style=plastic)
